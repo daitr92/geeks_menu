@@ -7,6 +7,10 @@
     {
       "name": "Thịt kho trứng",
       "price": 30000
+    },
+    {
+      "name": "Tôm",
+      "price": 30000
     }
   ]
 }

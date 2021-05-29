@@ -3,6 +3,10 @@
     {
       "name": "Chả kho",
       "price": 30000
+    },
+    {
+      "name": "Thịt kho trứng",
+      "price": 30000
     }
   ]
 }
